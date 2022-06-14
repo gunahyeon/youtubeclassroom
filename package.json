@@ -1,0 +1,25 @@
+{
+  "name": "gu-nahyeon",
+  "version": "1.0.0",
+  "description": "youtubeclassroom",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunahyeon/youtubeclassroom.git"
+  },
+  "author": "gu-nahyeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunahyeon/youtubeclassroom/issues"
+  },
+  "homepage": "https://github.com/gunahyeon/youtubeclassroom#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.8",
+    "nodemon": "^2.0.16"
+  }
+}
